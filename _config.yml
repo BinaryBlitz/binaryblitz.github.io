@@ -9,13 +9,13 @@ url: "http://binaryblitz.ru" # the base hostname & protocol for your site
 
 # User setting
 owner:
-email: job@binaryblitz.ru
+email: info@binaryblitz.ru
 facebook_username:
 twitter_username:
 github_username:
 address:
   - line: "Г. Москва"
-  - line: "ул. большая никитская 22/2"
+  - line: "ул. Большая никитская д. 22/2"
   # Feel free to add more lines here
 telephone: +7-968-45-25-493
 copyright: BinaryBlitz
