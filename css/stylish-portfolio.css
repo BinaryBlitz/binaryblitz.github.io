@@ -172,6 +172,25 @@ hr.small {
     text-shadow: 1px 1px 2px black, 0 0 1em black;
 }
 
+/* Menu */
+
+.menu {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+.menu ul {
+    float: right;
+    margin-right: 50px;
+    font-size: 0;
+}
+
+.menu ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+
 /* About */
 
 .about {
