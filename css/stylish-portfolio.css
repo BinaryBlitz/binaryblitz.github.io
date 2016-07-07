@@ -248,10 +248,6 @@ hr.small {
     cursor: not-allowed;
 }
 
-.nowrap {
-    white-space: nowrap;
-}
-
 /* Call to Action */
 
 .call-to-action {
