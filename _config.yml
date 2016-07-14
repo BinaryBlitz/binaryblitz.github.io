@@ -14,8 +14,8 @@ facebook_username:
 twitter_username:
 github_username:
 address:
-  - line: "Г. Москва"
   - line: "ул. Большая Никитская д. 22"
+  - line: "Москва"
   # Feel free to add more lines here
 telephone: +7 (985) 555-88-60
 copyright: BinaryBlitz
