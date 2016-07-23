@@ -191,6 +191,11 @@ hr.small {
     list-style-type: none;
 }
 
+.menu ul li a {
+    font-size: 11pt;
+    padding: 10px;
+}
+
 /* About */
 
 .about {
